@@ -1,0 +1,13 @@
+.body_background 
+{
+    background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#page{
+padding-top: 10% ;
+}
+#user_name{
+    padding-left: 10%;
+    padding-right: 10%;
+}
